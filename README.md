@@ -1,6 +1,6 @@
 # demo-dao-jdbc
 
-Criação de um CRUD simples utlizando Java e MYSQL.
+Criação de um projeto simples usando Java.
 
 # Seller
 
